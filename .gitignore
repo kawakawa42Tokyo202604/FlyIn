@@ -1,0 +1,8 @@
+.mypy_cache/
+__pycache__/
+.pytest_cache
+.venv
+*.tar*
+maps/
+maps.tar.gz
+Flyin.md
